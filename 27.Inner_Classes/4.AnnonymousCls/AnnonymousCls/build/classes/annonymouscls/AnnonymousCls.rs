@@ -1,0 +1,3 @@
+annonymouscls.AnnonymousCls$1
+annonymouscls.A
+annonymouscls.AnnonymousCls

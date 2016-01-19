@@ -1,0 +1,6 @@
+anonymousclsinterface.AnonymousClsInterface
+anonymousclsinterface.AnonymousClsInterface$1
+anonymousclsinterface.I
+anonymousclsinterface.Inner
+anonymousclsinterface.Inter
+anonymousclsinterface.A
